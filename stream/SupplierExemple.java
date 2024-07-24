@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 public class SupplierExemple {
     public static void main(String[] args) {
 
-        List<String> listaSaudacoes = Stream.generate(() -> "Hello world")
+        List<String> listaSaudacoes = Stream.generate( () -> "Hello world")
                 .limit(5)
                 .toList();
 
