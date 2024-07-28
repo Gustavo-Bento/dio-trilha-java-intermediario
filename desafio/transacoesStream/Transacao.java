@@ -1,4 +1,4 @@
-package desafio;
+package desafio.transacoesStream;
 
 class Transacao {
     private char tipo;
