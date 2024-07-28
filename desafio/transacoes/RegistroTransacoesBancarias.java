@@ -1,4 +1,4 @@
-package desafio;
+package desafio.transacoes;
 
 import java.util.ArrayList;
 import java.util.List;
